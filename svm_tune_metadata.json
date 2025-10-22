@@ -1,0 +1,20 @@
+{
+  "model_name": "SVM_Tuned[Grid](SVM)",
+  "export_time_utc": "2025-10-21T05:21:55Z",
+  "python": "3.11.7",
+  "sklearn": "1.2.2",
+  "classes": [
+    "Chronic Issues",
+    "Healthy",
+    "Moderate Issues"
+  ],
+  "feature_names": null,
+  "test_metrics": {
+    "Accuracy": 0.615,
+    "Balanced Acc": 0.333,
+    "Precision (w)": 0.378,
+    "Recall (w)": 0.615,
+    "F1 (w)": 0.468,
+    "AUC": 0.786
+  }
+}
