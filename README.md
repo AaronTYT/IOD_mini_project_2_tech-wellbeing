@@ -2,6 +2,7 @@
 **IOD (Institue of Data) Mini Project 2** 
 
 ## Project Resources:
+- 🚀 **Live Demo App:** [Live App][https://iodminiproject2lungcancer-9biyl8bfr5wnmsaso9rjtn.streamlit.app/]
 - 🎞️ **Video Presentation: (update in progress)** [Watch Here](video_presentation.mp4)
 - 🖼️ **Presentation:** [View Slides](Mini_Project_2_Aaron_Tan - Cancer.pptx)
 - 📄 **Mini-Project-2 Description Assignment Details:** [Read Report](Mini_project-2_outline.docx)
